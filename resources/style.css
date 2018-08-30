@@ -1,17 +1,21 @@
+/*body*/
 body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*Head title*/
 h1 {
     color: white;
    
     font-size: 50px;
 }
-h3 a{
+/*text link*/
+h3 a {
     color: aquamarine;
     font-size: 16px;
 }
+/*subheading*/
 h2 {
     color: white;
     font-size: 42px;
@@ -20,13 +24,16 @@ h4 {
     color: gray;
     font-size: 21px;
 }
+/*image*/
 body img {
     margin: 10px;
+/*footer*/
 }
 footer{
     text-align: right;
     color: gray;
 }
+/*media*/
 @media only screen and (max-width: 600px) {
     .image img {
         width: 500px
